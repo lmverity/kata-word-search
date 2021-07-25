@@ -16,4 +16,3 @@ class WordSearcher():
 			raise IOError
 
 		return words, grid
-
